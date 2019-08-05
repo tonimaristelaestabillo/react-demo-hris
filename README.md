@@ -1,6 +1,4 @@
 # React Demo HRIS
-
-<img src="https://user-images.githubusercontent.com/20078552/60428276-1157bc00-9c2b-11e9-8910-f0d013f40fde.png " width="100">
 Sample React + Redux App for managing employee data (CRUD)
 
 

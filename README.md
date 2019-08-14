@@ -26,3 +26,7 @@ Sample React + Redux App for managing employee data (CRUD)
 # Test Line
 
 	Update by AldenJeje
+
+   New details for new employee
+
+   a to z
